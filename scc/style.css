@@ -1,0 +1,200 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Montserrat;
+    background: #f5f7fa;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+}
+.main-cont {
+    background: #ffffff;
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+.sidebar {
+    background: #1e2939;
+    width: 370px; 
+    padding-top: 40px; 
+    padding-bottom: 40px;
+}
+.main-photo {
+    width: 370px;
+    height: auto;
+}
+.about-me-cont {
+    padding-top: 110px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 110;
+}
+.sidebar-contacts {
+    margin-top: 60px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.contacts-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+.contacts-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #434c5a;
+}
+.contacts-link-type {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 10px;
+}
+.sidebar-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.sidebar-text-title {
+     font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ffffff;
+}
+.sidebar-cont {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+    margin-bottom: 55px;
+    color: #ffffff;
+}
+.sidebar-items {
+
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ff6b08;
+    margin-left: 15px;
+}
+.sidebar-text {
+    color: #d8dadd;
+    font-weight: lighter;
+}   
+.job-text {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 23px;
+
+}
+.name-text {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+}
+
+
+
+.about-me-info-main-text {
+    margin-bottom: 65px;
+}
+
+.about-me-title-text {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    line-height: 24px;
+}
+
+.projects-link-list {
+    width: 189px;
+    height: 63px;
+    color: #bebebe;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.project-tech-text {
+    width: 138px;
+    height: 62px;
+    color: #bebebe;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.project-items {
+    width: 535px;
+    height: 38px;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.dots {
+color: #bebebe;
+font-weight: 100;
+}
+
+.project-cont {
+    margin-bottom: 55px;
+}
+
+.work-title-text {
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.company-name {
+    color: #f2731d;
+}
+
+.work-time {
+    width: 179px;
+    height: 13px;
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.work-duties {
+    margin-top: 14px;
+    margin-bottom: 30px;
+}
+
+.work-duties-item {
+    width: 535px;
+    height: 38px;
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.bottom-cont {
+    margin-bottom: 110px;
+}
+
+.education-proff-text {
+    margin-bottom: 14px;
+}
+
